@@ -1,5 +1,5 @@
 # HTML
 Repository about HTML
 
-Esté é um repositório de teste
-Está parte aprecerá no site
+Este é um repositório de teste. 
+essa parte aprecerá no site
