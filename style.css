@@ -18,11 +18,6 @@ header {
     float: left;
 }
 
-nav {
-    text-align: center;
-    float: right;
-}
-
 nav ul {
     margin: 0;
     padding: 0;
@@ -33,8 +28,14 @@ nav ul {
 
 nav li {
     display: inline-block;
-    margin: 0 50px;
+    margin: 0 70px;
     padding-top: 30px;
+}
+
+
+nav {
+    text-align: center;
+    float: right;
 }
 
 a {
@@ -108,7 +109,7 @@ ul li ul {
   transition: all 0.5s ease;
   margin-top: 1rem;
   top: 45px;
-  left: 0;
+  left: -360px;
   display: none;
 }
 
