@@ -124,3 +124,21 @@ hr {
     height: 5px;
     background-color: white;
 }
+
+.rodape {
+    background-color: pink;
+}
+
+.rodape img {
+    height: 200px;
+    padding: 25px;
+    padding-right: 150px;
+    border-right: 5px solid rgba(0, 0, 0, 0.849);
+    float: left;
+
+}
+
+.rodape .imgtext{
+    padding: 5px;
+    font-size: 16pt;
+}
